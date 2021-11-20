@@ -29,4 +29,4 @@ python3 main.py
 In order to play the 7x7 tic-tac-toe game, if the same icon comes next to each other 4 times horizontally and vertically diagonally and 4 times diagonally on the line, wins the game.
 
 ## Contact
-If you are working with a problem, you can write from [Instagram] (https://www.instagram.com/e.mirdes) good work :)
+If you are working with a problem, you can write from [Instagram](https://www.instagram.com/e.mirdes) good work :)
